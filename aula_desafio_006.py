@@ -1,4 +1,5 @@
 
+
 n1=int(input('Um valor: '))
 n2=int(input('Outro valor: '))
 s=n1+n2
