@@ -15,7 +15,6 @@ print('prazer em te conhecer {:=^20}'.format(nome))
 print(pow(4,2))
 print(4 ** 2)
 
-
 print('-=' * 40)
 print('-=' * 40)
 
