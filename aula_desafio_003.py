@@ -1,0 +1,7 @@
+# mostre dois numeros e mostre a soma entre eles
+n1 = int (input('digite um valor 01 '))
+n2 = int (input('digite um valor 02 '))
+s=n1+n2
+print('A soma de {} + {} é igual a {}' .format(n1,n2,s))
+
+# foi..
